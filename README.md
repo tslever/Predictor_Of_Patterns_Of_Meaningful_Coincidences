@@ -1,0 +1,1 @@
+# Predictor_Of_Patterns_Relating_To_Coincidences
