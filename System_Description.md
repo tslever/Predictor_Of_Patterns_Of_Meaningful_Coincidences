@@ -56,6 +56,8 @@ A meaningful coincidence is a coincidence that is remembered by a person.
 
 A serendipity is a coincidence that benefits a person.
 
+A Pattern of meaningful coincidences is a pattern where each Event is one event in a meaningful coincidence.
+
 ## Iterations Of Development
 
 At the end of Iteration...
